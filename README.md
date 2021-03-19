@@ -12,5 +12,12 @@ Latihan3
 
 Latihan4
 
+<img width="398" alt="latihan4" src="https://user-images.githubusercontent.com/68811466/111795320-a74ce200-88f9-11eb-91ed-c2129421d50a.PNG">
+
 TugasPraktikum1
+
+<img width="373" alt="tugaspraktikum1" src="https://user-images.githubusercontent.com/68811466/111795387-b92e8500-88f9-11eb-8af3-171b853358e2.PNG">
+
 TugasPraktikum2
+
+<img width="449" alt="tugaspraktikum2" src="https://user-images.githubusercontent.com/68811466/111795417-c0559300-88f9-11eb-9044-ba92e31d7f6e.PNG">
