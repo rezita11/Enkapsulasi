@@ -20,4 +20,4 @@ TugasPraktikum1
 
 TugasPraktikum2
 
-<img width="449" alt="tugaspraktikum2" src="https://user-images.githubusercontent.com/68811466/111795417-c0559300-88f9-11eb-9044-ba92e31d7f6e.PNG">
+<img width="395" alt="tugaspraktikum2" src="https://user-images.githubusercontent.com/68811466/111795615-f430b880-88f9-11eb-9082-5c6e943b2089.PNG">
